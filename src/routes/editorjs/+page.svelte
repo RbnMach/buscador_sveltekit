@@ -116,10 +116,10 @@
 	let arrayHtml: any = '';
 	async function GuardarTexto() {
 		const editorData = await editor.save();
-        console.log(editorData);
+        console.log(editorData);// este es el resultado que devuelve editorJs
         
 		arrayHtml = edjsParser.parse(editorData);
-		console.log(arrayHtml);
+		console.log(arrayHtml);// este es el resultado de editorJs convertido en array html
 	}
 
 	async function CargarHTML() {
