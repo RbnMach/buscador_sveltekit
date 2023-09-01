@@ -57,6 +57,7 @@
 		"editorjs-latex": "^1.0.4",
 		"editorjs-mermaid": "^1.0.0",
 		"editorjs-paragraph-with-alignment": "^3.0.0",
-		"editorjs-telegram-post": "^1.0.6"
+		"editorjs-telegram-post": "^1.0.6",
+		"svelte-select": "^5.7.0"
 	}
 }
