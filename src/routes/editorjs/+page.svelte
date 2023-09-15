@@ -1,11 +1,12 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import edjsHTML from 'editorjs-html';
+	const edjsParser = edjsHTML();
 	// @ts-ignore
 	// import Marker from '@editorjs/marker';
 	// const Marker = require('@editorjs/marker');
 
-	const edjsParser = edjsHTML();
+	
 
 	let EditorJS: any;
 	let editor: any;

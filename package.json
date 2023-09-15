@@ -58,6 +58,7 @@
 		"editorjs-mermaid": "^1.0.0",
 		"editorjs-paragraph-with-alignment": "^3.0.0",
 		"editorjs-telegram-post": "^1.0.6",
-		"svelte-select": "^5.7.0"
+		"svelte-select": "^5.7.0",
+		"svelty-picker": "^4.1.4"
 	}
 }
